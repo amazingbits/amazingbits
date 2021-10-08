@@ -14,9 +14,11 @@
 </div>
 
 <br>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amazingbits&theme=dark&locale=pt-br)](https://github.com/amazingbits)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amazingbits&theme=dark&layout=compact&locale=pt-br)](https://github.com/amazingbits)
+<div>
+  <a href="https://github.com/amazingbits" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amazingbits&theme=dark&locale=pt-br" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amazingbits&theme=dark&layout=compact&locale=pt-br" />
+</div>
 
 <br>
 
