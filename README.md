@@ -1,4 +1,10 @@
-### Hi there 👋
+<div style="text-align: center;">
+  <img src="https://i.pinimg.com/originals/71/21/d5/7121d581f292b50843cd7f70d91dd9ef.gif" width="80em" />
+  <h1 style="font-size: 18px;">Oi, eu sou o <span style="text-decoration:underline">Guilherme</span>, tudo bem?</h1>
+</div>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amazingbits&theme=dark&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amazingbits&theme=dark&layout=compact&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **amazingbits/amazingbits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
