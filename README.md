@@ -1,6 +1,6 @@
 <div style="display: inline_block;">
   <h3 style="font-size: 18px;">
-    <img src="https://i.pinimg.com/originals/71/21/d5/7121d581f292b50843cd7f70d91dd9ef.gif" width="20px" /> 
+    <img src="https://i.pinimg.com/originals/71/21/d5/7121d581f292b50843cd7f70d91dd9ef.gif" width="45px" /> 
     Oi, eu sou o Guilherme, tudo bem?
   </h3>
 </div>
